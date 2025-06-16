@@ -1,1 +1,1 @@
-# curo1
+# curso1
